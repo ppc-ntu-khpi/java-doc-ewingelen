@@ -81,6 +81,7 @@ public class Employee {
 
      /**
      * Метод для отримання посади
+     * @return посада
      */
     public String getJobTitle() {
         return jobTitle;
@@ -88,6 +89,7 @@ public class Employee {
 
     /**
      * Метод для отримання ім'я
+     * @return ім'я
      */
     public String getName() {
         return name;
@@ -111,6 +113,7 @@ public class Employee {
 
     /**
      * Метод для отримання рівня
+     * @return рівень
      */
     public int getLevel() {
         return level;
@@ -118,6 +121,7 @@ public class Employee {
 
     /**
      * Метод для отримання відділу
+     * @return відділ
      */
     public String getDept() {
         return dept;
