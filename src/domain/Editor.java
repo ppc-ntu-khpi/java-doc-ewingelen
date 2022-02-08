@@ -76,7 +76,7 @@ public class Editor extends Artist {
 
     /**
      * Метод для встановлення типу редагування
-     * @param чи редагує електронно
+     * @param electronic чи редагує електронно
      */
     public void setPreferences(boolean electronic) {
         this.electronicEditing=electronic;
