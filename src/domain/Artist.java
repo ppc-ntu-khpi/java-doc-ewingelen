@@ -29,6 +29,7 @@ public class Artist extends Employee {
     
     /**
      * Конструктор класу "артист" за замовчуванням
+     * @param skiils навички
      */
     public Artist() {
         super();
